@@ -1,0 +1,7 @@
+{
+  "name": "phpqrcode-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
